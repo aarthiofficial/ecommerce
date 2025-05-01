@@ -37,9 +37,7 @@ Below are some screenshots of the website.
 ![Cart/Sidebar](/src/img/cart.png)![home-page](https://github.com/user-attachments/assets/b5b7b740-13fa-406b-8552-0b69e6355f10)
 
 
-## Installation and Setup![home-page](https://github.com/user-attachments/assets/4ad01358-b240-4642-85c8-2287e861666d)
-
-<img width="1440" alt="cart" src="https://github.com/user-attachments/assets/bf0bdd51-23b3-4986-9d93-6074b876d930" />
+## Installation and Setup!
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory and run `npm install` to install all dependencies.
@@ -47,5 +45,4 @@ Below are some screenshots of the website.
 4. Open `http://localhost:3000` in your browser to view the website.
 
 
-Thank you! 🤍
-– Nigar Safarova
+
